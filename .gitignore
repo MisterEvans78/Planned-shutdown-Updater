@@ -3,3 +3,7 @@
 ################################################################################
 
 /.vs
+/Startup/obj/Debug
+/Startup/obj/Release
+/Startup/bin/Debug
+/Startup/bin/Release
