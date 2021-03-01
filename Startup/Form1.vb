@@ -2,7 +2,7 @@
 Imports System.IO
 Imports System.Text.RegularExpressions
 
-Public Class Form1
+Public Class Main
     Dim WC_File As New WebClient
     Dim WC_String As New WebClient
 
